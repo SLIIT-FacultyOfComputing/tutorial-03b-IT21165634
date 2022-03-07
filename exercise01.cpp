@@ -10,4 +10,5 @@ int main() {
           <<setw(15)<<  names[r]
           <<setw(10)<<setiosflags(ios::fixed)<<setprecision(2)<< marks[r] << endl;
  }
+  return 0;
 }
