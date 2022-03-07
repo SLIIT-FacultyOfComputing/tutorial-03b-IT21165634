@@ -1,1 +1,2 @@
-Length : 10, Width  : 5
+
+Length : 8, Width  : 2
